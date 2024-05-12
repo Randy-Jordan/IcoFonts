@@ -1,7 +1,7 @@
 # Icofonts
 
 ## Description
-Self hosted font icons. [Initial icons by IcoMoon](https://icomoon.io/app/#/select)<br> Guides below on ways to add to the collection of icons.
+Self hosted font icons. [Initial icons by IcoMoon](https://icomoon.io/app/#/select)<br> Guides below on ways to add to the collection of icons. 
 
 ## Table of Contents
 
@@ -16,6 +16,7 @@ Self hosted font icons. [Initial icons by IcoMoon](https://icomoon.io/app/#/sele
 - [x] Self Hosted.
 - [x] 400+ Icons.
 - [x] Bring / Make your own.
+- [ ] Chess Pieces / TODO Icon List
 
 ## Usage
 Just copy and paste into your projects, or host with server.
